@@ -1,0 +1,18 @@
+{
+  "models": [
+    {
+      "id": "xen_harbinger_v2",
+      "name": "Xen Harbinger (RVC v2)",
+      "author": "Xen10 Industries",
+      "description": "Deep cybernetic entity voice model trained on layered sub-bass vocal synthesis.",
+      "tags": ["Cybernetic", "Low Pitch", "Robotic", "Male"],
+      "onnx_url": "https://github.com/Xen10-Industries/mandible-voice-models/releases/download/v1.0.0/xen_harbinger_v2.onnx",
+      "index_url": "https://github.com/Xen10-Industries/mandible-voice-models/releases/download/v1.0.0/xen_harbinger_v2.index",
+      "sha256": "",
+      "default_pitch": -4.0,
+      "default_formant": -3.0,
+      "default_index_rate": 85.0,
+      "default_breathiness": 15.0
+    }
+  ]
+}
